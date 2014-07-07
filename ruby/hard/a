@@ -1,0 +1,5 @@
+#!/bin/env/ruby
+
+load 'functions.rb'
+
+put_args(ARGV)
