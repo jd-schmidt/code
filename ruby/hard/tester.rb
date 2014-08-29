@@ -1,3 +1,8 @@
-sleep 10
-puts "1"
-puts "Bobby"
+
+puts "HELLO"
+
+puts "tester"
+
+BEGIN {
+puts "where did I start?"
+}
