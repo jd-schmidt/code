@@ -1,10 +1,10 @@
 Programming Projects and Learning
 ==============
 
-Goals in order:
+Objectives:
 --------------
 
-*This will be Italic*
+*JD Schmidt*
 
 
 **RUBY**
@@ -16,9 +16,11 @@ Goals in order:
 
 **SWIFT**
 - Go over this website [LearnSwift](http://www.learnswift.tips/)
+- Take this course for iOS [Complete iOS Developer Course](https://www.udemy.com/complete-ios-developer-course/)
 
 **Ruby on Rails**
 - [This](https://www.coursera.org/course/webapplications) Coursera Course
+- Create Website
 
 ```
 	$ Let's Go!
