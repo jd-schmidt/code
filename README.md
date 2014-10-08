@@ -4,7 +4,6 @@ Programming Projects and Learning
 Objectives:
 --------------
 
-*JD Schmidt*
 
 
 **RUBY**
@@ -12,6 +11,7 @@ Objectives:
 
 **JAVA**
 - John Purcell Course [Java for Beginners](http://caveofprogramming.com) or on [Udemy](https://www.udemy.com/java-tutorial/#/)
+- Learn Java the Hard Way
 - [100 Java projects](java/JavaProjects.txt) based on this project [Github](https://github.com/anhtuann/99projects)
 
 **SWIFT**
@@ -20,7 +20,7 @@ Objectives:
 
 **Ruby on Rails**
 - [This](https://www.coursera.org/course/webapplications) Coursera Course
-- Create Website
+- Create Website *TBD*
 
 ```
 	$ Let's Go!
