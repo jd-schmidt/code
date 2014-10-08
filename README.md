@@ -20,6 +20,6 @@ Goals in order:
 **Ruby on Rails**
 - [This](https://www.coursera.org/course/webapplications) Coursera Course
 
-
-```	$ Let's Go!
+```
+	$ Let's Go!
 ```
