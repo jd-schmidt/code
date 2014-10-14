@@ -38,3 +38,6 @@ Thumbs.db
 
 #why gedit?
 *~
+
+# I want to ignore my rails_projects since this is a different repository
+rails_app/
