@@ -3,11 +3,11 @@
 #########################################################################################
 
 
-1.   
-2.   
-3.   
-4.   
-5.   
+1.   Simple GUI for talking with a dbms of unknown structure
+2.   Turn the simple GUI from above into a Web application
+3.   Simple Snake Game
+4.   FizzBuzz
+5.   www.reddit.com/r/dailyprogrammer
 6.   
 7.   
 8.   
